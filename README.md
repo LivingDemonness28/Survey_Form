@@ -1,1 +1,0 @@
-This is project done for freecodecamp initially on codepen.io
