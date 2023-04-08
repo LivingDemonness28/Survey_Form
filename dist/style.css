@@ -1,0 +1,99 @@
+body {
+  background: linear-gradient(180deg, #ff007f, #ff3399, #ff66b2, #ff99cc, #ffcce5, #ff99cc, #ff66b2, #ff3399, #ff007f);
+  border-style: solid;
+  border-color: #00ff90;
+  border-width: 10px;
+  margin: 0;
+  padding: 10px 10px 10px 10px;
+}
+
+img {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #00ff80;
+  border-width: 10px;
+  display: block;
+  margin: auto;
+}
+#title {
+  color: #00ff80;
+  text-align: center;
+  font-family: oswald;
+}
+
+#description {
+  text-align: center;
+  display: table;
+  background-color: #00ff80;
+  margin: auto;
+  margin-bottom: 20px;
+  font-family: oswald;
+}
+
+#survey-form {
+  
+}
+
+#name-label {
+  font-size: x-large;
+  font-weight: bold;
+  font-family: oswald;
+}
+
+#email-label {
+  font-size: x-large;
+  font-weight: bold;
+  font-family: oswald;  
+}
+
+#number-label {
+  font-size: x-large;
+  font-weight: bold;
+  font-family: oswald;  
+}
+
+#name {
+  font-family: monospace;
+}
+
+#email {
+  font-family: monospace;
+}
+
+#number {
+  font-family: monospace;
+}
+
+#dropdown {
+  font-family: monospace;
+}
+
+#submit:hover {
+  background-color: #00ff80;
+}
+
+#comment {
+  font-family: monospace;
+}
+
+#submit {
+  font-family: oswald;
+}
+
+#Comment {
+  font-family: oswald;
+}
+
+legend {
+  font-family: oswald;
+}
+
+fieldset {
+  font-family: monospace;
+}
+
+#choose {
+  font-family: oswald;
+}
+
+#
